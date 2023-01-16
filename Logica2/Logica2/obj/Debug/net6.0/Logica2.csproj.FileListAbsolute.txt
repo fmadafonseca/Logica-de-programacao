@@ -1,0 +1,15 @@
+C:\Users\Fábio\Documents\Aulas C#\Logica2\Logica2\bin\Debug\net6.0\Logica2.exe
+C:\Users\Fábio\Documents\Aulas C#\Logica2\Logica2\bin\Debug\net6.0\Logica2.deps.json
+C:\Users\Fábio\Documents\Aulas C#\Logica2\Logica2\bin\Debug\net6.0\Logica2.runtimeconfig.json
+C:\Users\Fábio\Documents\Aulas C#\Logica2\Logica2\bin\Debug\net6.0\Logica2.dll
+C:\Users\Fábio\Documents\Aulas C#\Logica2\Logica2\bin\Debug\net6.0\Logica2.pdb
+C:\Users\Fábio\Documents\Aulas C#\Logica2\Logica2\obj\Debug\net6.0\Logica2.csproj.AssemblyReference.cache
+C:\Users\Fábio\Documents\Aulas C#\Logica2\Logica2\obj\Debug\net6.0\Logica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio\Documents\Aulas C#\Logica2\Logica2\obj\Debug\net6.0\Logica2.AssemblyInfoInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\Logica2\Logica2\obj\Debug\net6.0\Logica2.AssemblyInfo.cs
+C:\Users\Fábio\Documents\Aulas C#\Logica2\Logica2\obj\Debug\net6.0\Logica2.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\Logica2\Logica2\obj\Debug\net6.0\Logica2.dll
+C:\Users\Fábio\Documents\Aulas C#\Logica2\Logica2\obj\Debug\net6.0\refint\Logica2.dll
+C:\Users\Fábio\Documents\Aulas C#\Logica2\Logica2\obj\Debug\net6.0\Logica2.pdb
+C:\Users\Fábio\Documents\Aulas C#\Logica2\Logica2\obj\Debug\net6.0\Logica2.genruntimeconfig.cache
+C:\Users\Fábio\Documents\Aulas C#\Logica2\Logica2\obj\Debug\net6.0\ref\Logica2.dll
